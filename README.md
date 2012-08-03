@@ -18,7 +18,7 @@ Do:
     heroku domains:add example.com
     git push heroku master
 
-You can __add as many domains as you like___, so long as they don't start with `www`.
+You can __add as many domains as you like__, so long as they don't start with `www`.
 
 Then add Heroku's IP addresses as A records in your DNS settings panel. At the time of writing these are:
 
