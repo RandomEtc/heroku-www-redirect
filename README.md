@@ -1,6 +1,6 @@
 ### What
 
-This is a Heroku "app" that will happily redirect naked domains to their `www` equivalent. It takes advantage of the fact that the PHP buildpack vendors Apache and [supports .htaccess files with mod_rewrite rules](http://kennethreitz.com/static-sites-on-heroku-cedar.html).
+This is a Heroku "app" that will happily redirect naked domains to their `www` equivalent. It takes advantage of the fact that the [default Heroku PHP buildpack](https://github.com/heroku/heroku-buildpack-php) uses Apache and [supports .htaccess files with mod_rewrite rules](http://kennethreitz.com/static-sites-on-heroku-cedar.html).
 
 ### Why
 
