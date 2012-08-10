@@ -34,4 +34,7 @@ Single process Heroku apps are free at the time of writing but might not be fore
 
 I haven't tested this with `https`, or even thought about it except while typing these words.
 
+### Alternatives
+
+There's a free service offered by [wwwizer](http://wwwizer.com/naked-domain-redirect) that does the same thing. Just point your domain at their IP and trust them.
 
